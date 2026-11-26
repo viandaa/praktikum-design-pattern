@@ -1,0 +1,25 @@
+# Executable
+*.exe
+*.dll
+*.pdb
+
+# Object files
+*.o
+*.obj
+
+# Build files
+build/
+Debug/
+Release/
+
+# IDE
+.vs/
+.vscode/
+
+# Temporary
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
